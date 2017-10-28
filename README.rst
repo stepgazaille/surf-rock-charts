@@ -26,11 +26,4 @@ List of songs
 
 ToDo
 ====
-These charts have not been revised:
-- Mr. Moto
-- Out Of Limits
-- Pipeline
-- Spiderman Theme
-- Surf Rider
-- Walk Don't Run
-- Wipe Out
+Charts to revise: Mr. Moto, Out Of Limits, Pipeline, Spiderman Theme, Surf Rider, Walk Don't Run, Wipe Out.
