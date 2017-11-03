@@ -1,6 +1,7 @@
-Surf Rock 5 piece arr
-*********************
+Surf Rock 5 piece arrangements
+******************************
 | 5 piece instrumental surf rock charts (Drum, Bass, Piano, Guitar & Horn).
+| Includes PDFs and Finale 2012 versions of the charts. 
 | To download, click the "Clone or download" button at the top right corner of the screen and select "Download ZIP".
 
 List of songs
